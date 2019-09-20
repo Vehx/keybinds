@@ -18,6 +18,12 @@ Note: If you are on windows replace CMD with Ctrl.
 | Select | Shift + Up/Down/Left/Right | Shift + Up/Down/Left/Right |
 
 
+If the Toggle line comment command above doesn't work for you in VS code try the following:
+
+    To make a line a comment : Ctrl + K then Ctrl + C
+    To undo the comment line : Ctrl + K then Ctrl + U
+
+
 #### For VS code users
 
 If you have a preference for a certain IDEs shortcommands/key-binds then there are extentions for VS code that lets you use their keymaps.
