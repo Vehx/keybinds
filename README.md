@@ -1,6 +1,7 @@
 ## Shortcommands for IDEs
 ### Key binds, keyboard shortcuts, keymaps
 
+![Frantic keyboard typing gif](https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif "Frantic keyboard typing")
 
 Some very commonly used and useful shortcommands for Atom and VS code.
 
