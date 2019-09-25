@@ -21,8 +21,11 @@ Note: If you are on windows replace CMD with Ctrl.
 
 If the Toggle line comment command above doesn't work for you in VS code try the following:
 
-    To make a line a comment : Ctrl + K then Ctrl + C
-    To undo the comment line : Ctrl + K then Ctrl + U
+| Command | VS code |
+|--------------------|------------------------------------------------------------------|
+| Toggle line comment | <kbd>Ctrl</kbd> + <kbd>'</kbd> |
+| Make a line comment | <kbd>Ctrl</kbd> + <kbd>K</kbd>  <kbd>Ctrl</kbd> + <kbd>C</kbd> |
+| Undo a line comment | <kbd>Ctrl</kbd> + <kbd>K</kbd>  <kbd>Ctrl</kbd> + <kbd>U</kbd> |
 
 
 #### For VS code users
